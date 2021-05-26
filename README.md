@@ -1,2 +1,2 @@
 # Random-Color-Array-Generator
-Team Avira
+# Team Avira
