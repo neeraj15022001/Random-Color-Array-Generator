@@ -15,7 +15,7 @@ const generateRandomColorArray = (sizeOfArray) => {
     const color = `rgb(${red},${green},${blue})`;
     const hexColor = rgbHex(color);
 
-    colorsArray.push(`#${hexColor}`);
+    colorsArray.push(`"#${hexColor}"`);
   }
   return colorsArray;
 };
